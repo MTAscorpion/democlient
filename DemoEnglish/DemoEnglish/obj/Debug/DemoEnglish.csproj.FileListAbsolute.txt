@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\DemoEnglish\DemoEnglish\bin\Debug\DemoEnglish.exe.config
+C:\Users\admin\source\repos\DemoEnglish\DemoEnglish\bin\Debug\DemoEnglish.exe
+C:\Users\admin\source\repos\DemoEnglish\DemoEnglish\bin\Debug\DemoEnglish.pdb
+C:\Users\admin\source\repos\DemoEnglish\DemoEnglish\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\DemoEnglish\DemoEnglish\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\admin\source\repos\DemoEnglish\DemoEnglish\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\DemoEnglish\DemoEnglish\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\admin\source\repos\DemoEnglish\DemoEnglish\obj\Debug\DemoEnglish.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\DemoEnglish\DemoEnglish\obj\Debug\DemoEnglish.MainForm.resources
+C:\Users\admin\source\repos\DemoEnglish\DemoEnglish\obj\Debug\DemoEnglish.Properties.Resources.resources
+C:\Users\admin\source\repos\DemoEnglish\DemoEnglish\obj\Debug\DemoEnglish.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\DemoEnglish\DemoEnglish\obj\Debug\DemoEnglish.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DemoEnglish\DemoEnglish\obj\Debug\DemoEnglish.csproj.CopyComplete
+C:\Users\admin\source\repos\DemoEnglish\DemoEnglish\obj\Debug\DemoEnglish.exe
+C:\Users\admin\source\repos\DemoEnglish\DemoEnglish\obj\Debug\DemoEnglish.pdb
